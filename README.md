@@ -1,16 +1,33 @@
-# mad_final_project
+# 🏡 Real Estate Mobile Application (Flutter)
 
-A new Flutter project.
+A modern **Real Estate Mobile Application** built using **Flutter**, designed to help users browse, search, and manage property listings with an intuitive and user-friendly experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Overview
 
-A few resources to get you started if this is your first Flutter project:
+This application allows users to explore residential and commercial properties, view detailed listings, connect with agents, and manage their favorite properties.  
+It is designed with scalability and clean architecture in mind, making it suitable for both academic projects and real-world use cases.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Key Features
+
+### 🔍 Property Discovery
+- Browse properties by **location, price, type, and size**
+- Advanced search and filtering options
+- View featured and recently added listings
+
+### 🏠 Property Details
+- High-quality image gallery
+- Property description, price, and amenities
+- Google Maps integration for location view
+
+### 👤 User Management
+- User registration & login
+- Profile management
+- View saved and contacted properties
+
+### 📱 Responsive UI
+- Clean and modern UI
+- Works seamlessly on both Android and iOS
